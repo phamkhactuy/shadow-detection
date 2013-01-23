@@ -1,2 +1,2 @@
-shadow-detection
+Shadow Detection and scientific articles
 ================
